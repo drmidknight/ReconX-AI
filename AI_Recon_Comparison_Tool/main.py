@@ -1,7 +1,8 @@
-from traditional_recon import run_nmap, run_whois
-from ai_recon_parser import parse_with_ai
-from comparator import compare_outputs
-from report_generator import generate_report
+from modules.traditional_recon import run_nmap, run_whois
+from modules.ai_recon_parser import parse_with_ai
+from modules.comparator import compare_outputs
+from modules.report_generator import generate_report
+
 
 target = "facebook.com"
 
