@@ -40,7 +40,7 @@ ReconX-AI/
 
 <hr>
 
-<h2>⚡ Installation & Usage</h2>
+<h2>  Installation & Usage</h2>
 
 <h3>1. Clone the Repository</h3>
 <pre><code>git clone https://github.com/yourusername/ReconX-AI.git
@@ -65,7 +65,7 @@ Get your API key from
 
 <hr>
 
-<h2>🧪 Output Example</h2>
+<h2>  Output Example</h2>
 
 <p>After running the tool, you’ll find a structured report here:</p>
 <pre><code>output/report.md</code></pre>
@@ -106,7 +106,7 @@ Get your API key from
 <hr>
 
 <h2> License</h2>
-<p>MIT License © 2025 <strong>Your Name or GitHub Username</strong></p>
+<p>MIT License © 2025 <strong> Prince Boadu</strong></p>
 
 <hr>
 
